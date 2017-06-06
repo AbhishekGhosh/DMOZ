@@ -35,8 +35,7 @@ Structure of Categories in this repo :
 |          + Patient Education
 |
 |
-|--+
-|  |
+|
 |
 ````
 
